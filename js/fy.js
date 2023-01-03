@@ -77,7 +77,6 @@ var tarf = [
   { tarf: "5", clock: "2022-12-15", mdrTotal: 0, tarfType: "general" },
   { tarf: "1", clock: "2022-12-15", mdrTotal: 43.937, tarfType: "homemade" },
   { tarf: "3", clock: "2022-12-15", mdrTotal: 10.284, tarfType: "other_uses" }
-  { tarf: "3", clock: "2022-12-35", mdrTotal: 10.284, tarfType: "other_uses" }
 ];
 console.log(
   "----------------------------------------------------------------------------------------------------------------------"
